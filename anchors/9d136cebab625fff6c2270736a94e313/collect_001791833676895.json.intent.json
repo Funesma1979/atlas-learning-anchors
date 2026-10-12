@@ -1,0 +1,9 @@
+{
+ "gseq_max_before": 1,
+ "kind": "INTENT",
+ "n_checkpoints_before": 0,
+ "now_ms": 1791833676895,
+ "report_name": "collect_001791833676895.json",
+ "schema": "lspine-anchor-2",
+ "spine_id": "9d136cebab625fff6c2270736a94e313"
+}
