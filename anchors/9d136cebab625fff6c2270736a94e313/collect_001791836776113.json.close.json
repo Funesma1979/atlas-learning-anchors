@@ -1,0 +1,20 @@
+{
+ "chain_heads_hmac": {
+  "anomaly_log": "40b352e9bc8e0551558715b19b70bb1e6341f1cad8189b70face7f7970f22f3a",
+  "challenger_decision": "8e920d919432c4eb7a9c2850177596aceddf06b3d13d9728b7bef9961cfcd201",
+  "checkpoint_log": "147c6eef990966aa4fb6f4d78bf088c773495c28958363e02fd70e8746150618",
+  "decision_snapshot": "f624ff33a046b72b27fdac8598c4da336cc91669cdf0db5c0d0d29f3b081f372",
+  "outcome_event": "32226307578018ce705f43be8d573390880360fc57581e05e773caaaa57f19ee",
+  "policy_registry": "f24d40e49ebd8dd0840df81f705c6c6edf42e3d8361a010b9236026c3a25f359"
+ },
+ "collect_now_ms": 1791836776113,
+ "gseq_max": 73,
+ "kind": "CLOSE",
+ "n_checkpoints": 3,
+ "policy_sha": "1b989b022e7f30899db55f151ea31450647ae3cfae19998c29a3aa0bff6a91d8",
+ "prev_report_sha": "934a0c1656a069286618137dcb345a4548618193b25ae0a9cc217365eb801bf8",
+ "report_name": "collect_001791836776113.json",
+ "report_sha": "c85fdd7348e03febc77fd230d43cebbfe900a7e27997e858995324573e629db5",
+ "schema": "lspine-anchor-2",
+ "spine_id": "9d136cebab625fff6c2270736a94e313"
+}
